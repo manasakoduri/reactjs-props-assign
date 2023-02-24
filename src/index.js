@@ -4,7 +4,7 @@ import { createRoot } from 'react-dom/client';
 import Nav from './Nav';
 import Intro from './Intro';
 import Blog from './Blog';
-import Tech from './Tech';
+import TechStack from './TechStack';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -14,6 +14,6 @@ root.render(
     <Nav />
     <Intro />
     <Blog />
-    <Tech />
+    <TechStack />
   </StrictMode>
 );

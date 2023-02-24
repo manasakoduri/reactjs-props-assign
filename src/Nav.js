@@ -3,13 +3,13 @@ import './style.css';
 
 export default function Nav() {
   return (
-    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-      <div class="container">
-        <a class="navbar-brand" href="#">
+    <nav className="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+      <div className="container">
+        <a className="navbar-brand" href="#">
           Dev Profile
         </a>
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNavAltMarkup"
@@ -17,20 +17,20 @@ export default function Nav() {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="#">
+        <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div className="navbar-nav">
+            <a className="nav-link active" aria-current="page" href="#">
               Home
             </a>
-            <a class="nav-link" href="#">
+            <a className="nav-link" href="#">
               Portfolio
             </a>
-            <a class="nav-link" href="#">
+            <a className="nav-link" href="#">
               Resume
             </a>
-            <a class="nav-link" href="#">
+            <a className="nav-link" href="#">
               Contact
             </a>
           </div>
