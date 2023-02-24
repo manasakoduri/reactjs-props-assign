@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Java",
+    "imageURL": "https://ctechhosting.com/images-354/java.png",
+    "description": "List skills technologies here. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor."
+  },
+  {
+    "name": "JavaScript",
+    "imageURL": "https://ctechhosting.com/images-354/python.png",
+    "description": "List skills technologies here. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor."
+  },
+  {
+    "name": "React",
+    "imageURL": "https://ctechhosting.com/images-354/react.png",
+    "description": "List skills technologies here. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor."
+  },
+  {
+    "name": "Databases",
+    "imageURL": "https://ctechhosting.com/images-354/sql.png",
+    "description": "List skills technologies here. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor. Aenean commodo ligula eget dolor."
+  }
+]

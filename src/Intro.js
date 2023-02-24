@@ -6,7 +6,7 @@ export default function Intro() {
     <div class="container m-3">
       <div class="row">
         <div class="col-3">
-          <img src="images/keyboard.jpg" width="100" height="100" />
+          <img src="https://ctechhosting.com/images-354/keyboard.jpg" width="100" height="100" />
         </div>
         <div class="col-9">
           <p>
